@@ -8,3 +8,4 @@ This repository contains my practice programs while learning Data Structures and
 ## Array Programs
 1. Find largest element in an array
 2. Reverse an array
+3. Sum of numbers 
